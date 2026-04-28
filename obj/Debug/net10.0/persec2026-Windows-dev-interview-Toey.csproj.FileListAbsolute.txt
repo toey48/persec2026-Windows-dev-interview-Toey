@@ -1,0 +1,14 @@
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\bin\Debug\net10.0\persec2026-Windows-dev-interview-Toey.exe
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\bin\Debug\net10.0\persec2026-Windows-dev-interview-Toey.deps.json
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\bin\Debug\net10.0\persec2026-Windows-dev-interview-Toey.runtimeconfig.json
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\bin\Debug\net10.0\persec2026-Windows-dev-interview-Toey.dll
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\bin\Debug\net10.0\persec2026-Windows-dev-interview-Toey.pdb
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.AssemblyInfoInputs.cache
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.AssemblyInfo.cs
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.dll
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\refint\persec2026-Windows-dev-interview-Toey.dll
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.pdb
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\persec2026-Windows-dev-interview-Toey.genruntimeconfig.cache
+C:\Users\NITRO\testApp\persec2026-Windows-dev-interview-Toey\obj\Debug\net10.0\ref\persec2026-Windows-dev-interview-Toey.dll
